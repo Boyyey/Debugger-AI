@@ -1,0 +1,3 @@
+pylint
+openai
+streamlit 
