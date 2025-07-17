@@ -73,10 +73,10 @@ DebuggerAI is an AI-powered tool that:
 ```markdown
 You are an AI code tutor.
 For this Python function, explain in plain English why there might be a bug, suggest a fix, and explain the concept behind the bug:
+```
 ```python
 def divide(a, b):
     return a / b
-```
 ```
 
 ---
